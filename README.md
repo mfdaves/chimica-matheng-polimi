@@ -1,2 +1,2 @@
 # chimica-matheng-polimi
-trascizione in corso, in latex, delle lezioni del corso di chimica 083217, a.a. 2024/2025, Prof Parmeggiani
+Trascrizione, in piena fase di modifiche (con gran parte di disegni e illustrazioni mancanti), delle lezioni di chimica tenute dal Prof. Fabio Parmeggiani, primo scaglione, Ingegneria Matematica. 
